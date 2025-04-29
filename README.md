@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-💻 I'm a student Web Developer and a Robotics Enthusiast
+💻 I'm a student Web Developer and a Robotics Tinkerer
 
-⚡ I own **@linuskangsoftware**! Check it out at https://org.linuskang.au.
+⚡ Check out Linus Kang Software at https://software.linuskang.au.
 
-🌱 I’m currently making Blogger, a nodejs framework for creating blogging sites.
+🌱 I’m currently making Blogger, a NodeJS framework for creating blogging sites.
 
-💬 I love open-source software like Home Assistant and TrueNAS.
+💬 I love open-source software
 
-🎉 I'm currently participating in the First Lego League Internationals Round happening in Sydney in July representing Australia!
+🎉 I'm currently participating in the First Lego League Internationals Round representing Australia!
 
 ## My Sites
 
