@@ -9,8 +9,3 @@
 💬 I love open-source software
 
 🎉 I'm currently participating in the First Lego League Internationals Round representing Australia!
-
-## My Sites
-
-- Visit my portfolio: https://linuskang.au
-- Visit my blog: https://blog.linuskang.au
