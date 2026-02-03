@@ -1,6 +1,6 @@
 # HEY
 
-Student messing around with making web apps.
+a Student messing around with making web apps.
 
 Some of my repositories are on the [kang software](https://github.com/kangsoftware) org.
 
