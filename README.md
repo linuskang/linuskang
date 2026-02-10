@@ -1,10 +1,9 @@
 # HEY
 
-a Student messing around with making web apps.
+a student messing around with making web apps.
 
 Some of my repositories are on the [kang software](https://github.com/kangsoftware) org.
 
-## the tech i work with
 ![Gitea](https://img.shields.io/badge/Gitea-000000?style=for-the-badge&logo=gitea&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
