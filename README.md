@@ -1,11 +1,8 @@
-# HEY
+student @ qa, messing around with web apps..
 
-a student messing around with making web apps.
+Some of my repos are on the [kang software](https://github.com/kangsoftware) org.
 
-Some of my repositories are on the [kang software](https://github.com/kangsoftware) org.
-
-check out my website if you want: https://linuskang.au
-
+--- START RANDOM SKILLS NOBODY READS ---
 ![Gitea](https://img.shields.io/badge/Gitea-000000?style=for-the-badge&logo=gitea&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -36,3 +33,4 @@ check out my website if you want: https://linuskang.au
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+--- END SKILLS NOBODY READS ---
