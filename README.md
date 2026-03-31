@@ -1,8 +1,7 @@
-student @ qa, messing around with web apps..
+``student @ qa, messing around with web apps..``
 
-Some of my repos are on the [kang software](https://github.com/kangsoftware) org.
+``--- START RANDOM SKILLS NOBODY READS ---``
 
---- START RANDOM SKILLS NOBODY READS ---
 ![Gitea](https://img.shields.io/badge/Gitea-000000?style=for-the-badge&logo=gitea&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -33,4 +32,5 @@ Some of my repos are on the [kang software](https://github.com/kangsoftware) org
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
---- END SKILLS NOBODY READS ---
+
+``--- END SKILLS NOBODY READS ---``
