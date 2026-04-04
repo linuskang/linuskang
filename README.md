@@ -34,3 +34,5 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ``--- END SKILLS NOBODY READS ---``
+
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/d5ed6686-088b-413b-893f-b9336594ea6f" />
