@@ -1,6 +1,4 @@
-``student @ qa, messing around with web apps..``
-
-``--- START RANDOM SKILLS NOBODY READS ---``
+student messing around with making cool web apps
 
 ![Gitea](https://img.shields.io/badge/Gitea-000000?style=for-the-badge&logo=gitea&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,7 +31,4 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-``--- END SKILLS NOBODY READS ---``
-
-Feel free to use my sticker :>
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d5ed6686-088b-413b-893f-b9336594ea6f" />
