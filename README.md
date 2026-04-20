@@ -1,4 +1,15 @@
-student messing around with making cool web apps
+## Hello 😎
+
+I am a student messing around with making apps.
+
+## Projects
+
+- [Bubbly Maps](https://bubbly.linus.my): Simple and open framework for mapping water fountains
+- [Upstream](https://upstream.linus.my): Alternative to SEQ logging
+- [Quacky](https://quacky.linus.my): Social media, for teens
+- [OpenData API](https://opendata.linus.my): Easy-to-use APIs for accessing Australia Open Data feeds
+
+I typically use the following technologies:
 
 ![Gitea](https://img.shields.io/badge/Gitea-000000?style=for-the-badge&logo=gitea&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,4 +42,8 @@ student messing around with making cool web apps
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
+Feel free to view my sticker :>
+
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d5ed6686-088b-413b-893f-b9336594ea6f" />
+
+For any enquiries, contact me at linus@linus.my
