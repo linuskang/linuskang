@@ -46,4 +46,4 @@ Feel free to view my sticker :>
 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d5ed6686-088b-413b-893f-b9336594ea6f" />
 
-For any enquiries, contact me at linus@linus.my
+For any enquiries, contact me at linuskang@linuskang.au
