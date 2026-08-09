@@ -1,6 +1,6 @@
 # hey, its me 👋
 
-i'm linus, started programming when I was a kid, and...
+i'm linus, uh what else do i say here?
 
 ### i'm currently studying...
 
