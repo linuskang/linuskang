@@ -9,4 +9,4 @@ curious on what i've done? notable things ive made include:
 - [Upstream](https://up.linus.my): A custom logging platform tailored to myself
 - [drawr](https://drawr.space): Inventory management for your electrical components & drawers
 
-want to ask me something? feel free to email me at ``m[@]linuskang[dot]au``.
+want to ask me something? feel free to email me at ``m[at]linuskang[dot]au``.
