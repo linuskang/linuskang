@@ -9,4 +9,9 @@ curious on what i've done? notable things ive made include:
 - [Upstream](https://up.linus.my): A custom logging platform tailored to myself
 - [drawr](https://drawr.space): Inventory management for your electrical components & drawers
 
-want to ask me something? feel free to email me at ``m[at]linuskang[dot]au``.
+other stuff:
+- pr reviewer @ [is-a.dev](https://github.com/is-a-dev)
+- [query.is-a.dev](https://query.is-a.dev): Domain and owner querying service for is-a.dev domains
+- my [portfolio](https://linuskang.au)
+
+want to ask me something? feel free to email me at ``m [at] linuskang [dot] au``.
