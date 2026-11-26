@@ -1,15 +1,21 @@
 # Hello, I'm Linus
 
-a student from australia currently learning full-stack. check out my site at https://linuskang.au!
+a student from australia currently learning full-stack.
 
-# techstack
+### some achievements so far.
+
+- Premier's Coding Competition winner for 2025 & 2026, open platform category!
+- FLL alumni & active volunteer
+- more insignificant stuff
+
+## techstack
 
 - languages: ts, js, html, css, python, mysql
 - frontend: react, shadcn/ui, cloudflare/kumo, tw
 - backend: express.js, hono
 - frameworks: next.js, vite, 
 
-# some stuff i've made
+## some stuff i've made
 
 - https://quacky.space - social media for schools to educate teenagers on how to use social media responsibly
 - [bubblymaps](https://bubbly.linuskang.au) - public index of over 150,000 water bubblers all over the world
