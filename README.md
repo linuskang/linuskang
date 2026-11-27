@@ -2,11 +2,16 @@
 
 a student from australia currently learning full-stack.
 
-### some achievements so far.
+## what am i doing right now?
 
-- Premier's Coding Competition winner for 2025 & 2026, open platform category!
-- FLL alumni & active volunteer
-- more insignificant stuff
+- Active PR reviewer for [is-a.dev](https://is-a.dev) and [is-a.bot](https://is-a.bot)
+- Active FLL volunteer
+
+### achievements so far
+
+- Premier's Coding Competition winner for 2025 & 2026 Open-platform category
+- Qualified to nationals & internationals round for First Lego League, representing Australia in 2025, 2026
+- [more random stuff](https://linus.my/achievements)
 
 ## techstack
 
